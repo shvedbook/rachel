@@ -1,0 +1,15 @@
+body {
+   
+}
+
+#imagePlaceholder {
+    display:block;
+    width: 200px;
+    height: 200px;
+    background-image: url('../Images/imagePlaceholder.png');
+    background-size:cover;
+}
+#myFeedback{
+    color: mediumpurple;
+    font-size: 20pt;
+}
